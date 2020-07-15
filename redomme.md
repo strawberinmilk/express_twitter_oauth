@@ -1,0 +1,3 @@
+ ### express_twitter_oauth
+
+expressのpassportでconsumer_key/consumer_secretしかないAPIキーからaccess_token_key/access_token_secretを取り出せます
